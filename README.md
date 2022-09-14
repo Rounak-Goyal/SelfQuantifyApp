@@ -1,15 +1,17 @@
-Self Quantified App to help keep users tracks of their daily activity.
+### Self Quantified App to help keep users tracks of their daily activity.
 Using Flask and SQlite 
 
 
-Demo: <a href='https://self-quantify-app.herokuapp.com'>self-quantify-app</a>
+### Demo: <a href='https://self-quantify-app.herokuapp.com'>self-quantify-app</a>
 
-Reqirements-
+# Reqirements-
+
 1)flask  
 2)flask_sqlalchemy  
 3)matplotlib   
   
-To run setup: 
+# To run setup: 
+  
   pip install flask  
   pip install sql_alchemy  
   pip install matplotlib  
