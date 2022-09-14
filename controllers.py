@@ -3,7 +3,7 @@ from flask import Flask, redirect, url_for
 from flask import render_template
 from flask import request
 from flask import current_app as app
-from models import *
+from app import *
 
 import matplotlib
 matplotlib.use('Agg')
