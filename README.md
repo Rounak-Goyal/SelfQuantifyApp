@@ -16,6 +16,13 @@ Using Flask and SQlite
   pip install sql_alchemy  
   pip install matplotlib  
   python app.py   
+  
+## Dashboard
+<img src='img/4.png'/>
 
-<img src='img/1.png' width=500px/>
-<img src='img/2.png' width=500px/>
+## Tracker
+<img src='img/3.png'/>
+
+## Stucture/Features
+<img src='img/1.png'/>
+<img src='img/2.png'/>
