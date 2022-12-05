@@ -2,7 +2,7 @@
 Using Flask and SQlite 
 
 
-### Demo: <a href='https://self-quantify-app.herokuapp.com'>self-quantify-app</a>
+### Demo: <a href='https://self-quantify-app.herokuapp.com'>self-quantify-app</a>  !!Currently app is not working on heroku, as its free services are expired on 28th Nov
 
 # Reqirements-
 1)flask  
